@@ -1,0 +1,14 @@
+C:\Users\mariaa.falcon\source\repos\TestEj\TestEj\bin\Debug\netcoreapp3.1\TestEj.exe
+C:\Users\mariaa.falcon\source\repos\TestEj\TestEj\bin\Debug\netcoreapp3.1\TestEj.deps.json
+C:\Users\mariaa.falcon\source\repos\TestEj\TestEj\bin\Debug\netcoreapp3.1\TestEj.runtimeconfig.json
+C:\Users\mariaa.falcon\source\repos\TestEj\TestEj\bin\Debug\netcoreapp3.1\TestEj.runtimeconfig.dev.json
+C:\Users\mariaa.falcon\source\repos\TestEj\TestEj\bin\Debug\netcoreapp3.1\TestEj.dll
+C:\Users\mariaa.falcon\source\repos\TestEj\TestEj\bin\Debug\netcoreapp3.1\TestEj.pdb
+C:\Users\mariaa.falcon\source\repos\TestEj\TestEj\obj\Debug\netcoreapp3.1\TestEj.csproj.AssemblyReference.cache
+C:\Users\mariaa.falcon\source\repos\TestEj\TestEj\obj\Debug\netcoreapp3.1\TestEj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariaa.falcon\source\repos\TestEj\TestEj\obj\Debug\netcoreapp3.1\TestEj.AssemblyInfoInputs.cache
+C:\Users\mariaa.falcon\source\repos\TestEj\TestEj\obj\Debug\netcoreapp3.1\TestEj.AssemblyInfo.cs
+C:\Users\mariaa.falcon\source\repos\TestEj\TestEj\obj\Debug\netcoreapp3.1\TestEj.csproj.CoreCompileInputs.cache
+C:\Users\mariaa.falcon\source\repos\TestEj\TestEj\obj\Debug\netcoreapp3.1\TestEj.dll
+C:\Users\mariaa.falcon\source\repos\TestEj\TestEj\obj\Debug\netcoreapp3.1\TestEj.pdb
+C:\Users\mariaa.falcon\source\repos\TestEj\TestEj\obj\Debug\netcoreapp3.1\TestEj.genruntimeconfig.cache
