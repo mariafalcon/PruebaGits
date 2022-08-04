@@ -14,10 +14,16 @@ public class Coche {
  String matricula;
 }
 
-public class Coche {
+public class Coche extends IVehiculo{
 
 
  String matricula;
 String dni;s
 
+}
+public interface IVehiculo {
+	
+	String texto();
+	void arrancar();
+	void echarGasolina();
 }
